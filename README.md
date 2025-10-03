@@ -1,6 +1,5 @@
 # 📰 AI-Powered Text Summarizer
-![Alt text](<img width="1618" height="782" alt="Screenshot 2025-10-03 164251" src="https://github.com/user-attachments/assets/9c86d6e3-3081-4dfd-b397-6b51819e307c" />
-)
+![Screenshot](https://github.com/user-attachments/assets/9c86d6e3-3081-4dfd-b397-6b51819e307c)
 
 
 This project is a **Streamlit-based web application** that leverages **Hugging Face LLMs** (Llama 3) through LangChain to summarize news articles from URLs. It breaks down articles into chunks, generates summaries for each chunk, and then produces a concise 3-sentence final summary.
